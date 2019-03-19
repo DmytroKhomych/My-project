@@ -1,0 +1,25 @@
+.navbar-default {
+background-color: #000;
+}
+.navbar-default .navbar-brand {
+color: #fff;
+}
+.navbar-default .navbar-brand {
+color: #1ce882 !important;
+}
+.navbar-default .navbar-brand {
+color: #ddd;
+}
+
+.kysel {
+    background-color: blue;
+    
+}
+
+.khomych {
+    background-color: red;
+}
+.finder {
+width: 100%;
+height: 50px;
+}
